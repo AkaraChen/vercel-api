@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@vercel/node": "^2.0.0",
-    "axios": "^0.27.2",
+    "axios": "^1.0.0",
     "typescript": "^4.6.4",
     "xml-js": "^1.6.11"
   }
